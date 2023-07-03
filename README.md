@@ -7,14 +7,17 @@ Apple Mac.
 A Dieselpunk Battery widget. - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Battery strength gauge. Functional 
 and gorgeous at the same time as long as you have a battery. The graphics are my 
-own, I took original inspiration from a clock face by Italo Fortana. It is 
-mostly my code with some solid help from Harry Whitfield. 
+own, I took original inspiration from a clock face by Italo Fortana. 
+
+![panzerBatteryBanner](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget/assets/2788342/4089046f-3338-4b0e-acf5-0ab067980e05)
 
 
 To find out how the widget operates, simply right click and select Help and a 
 full explanation of all the buttons, windows is shown. The top left window is 
 the current power in digital form. Hovering over any control should supply a 
 pop-up explaining each function.
+
+![panzer-battery-icon](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget/assets/2788342/0682f1e7-cd7c-4e1c-b632-50fdd0c992e5)
 
 Right clicking will bring up a menu of options. Double-clicking on the widget 
 will cause a personalised Windows application to fire up. The first time you run 
@@ -92,7 +95,7 @@ Tested on :
  menubar item should appear. Widgets can then be started from the menubar or by 
  double-clicking on the KON file in the usual way.
  
- ![panzer-wireless-gauge-help](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/a52da218-3151-4ae5-b3a7-d0aa768eb45f)
+
 
  LICENCE AGREEMENTS:
  
@@ -105,6 +108,7 @@ Tested on :
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
  
-![about](https://github.com/yereverluvinunclebert/Panzer-wireless-gauge-Ywidget/assets/2788342/1e39148e-22bc-43e5-8513-79581b478f23)
+
+![about](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget/assets/2788342/2d3661ff-d78d-485a-906b-3fa5a239c38a)
 
 
