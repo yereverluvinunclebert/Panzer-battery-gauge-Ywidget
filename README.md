@@ -95,6 +95,7 @@ Tested on :
  menubar item should appear. Widgets can then be started from the menubar or by 
  double-clicking on the KON file in the usual way.
  
+![tank-help-750](https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget/assets/2788342/7a4119e1-08d7-491b-802f-b2fee6907954)
 
 
  LICENCE AGREEMENTS:
