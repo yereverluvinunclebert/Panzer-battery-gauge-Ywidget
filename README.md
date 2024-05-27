@@ -4,6 +4,8 @@ Dieselpunk Desktop Battery widget, written in Javascript and XML for the Yahoo
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Battery-Gauge-VB6
+
 A Dieselpunk Battery widget. - I created for the World of Tanks and War Thunder 
 communities.This Panzer widget is a simple Battery strength gauge. Functional 
 and gorgeous at the same time as long as you have a battery. The graphics are my 
